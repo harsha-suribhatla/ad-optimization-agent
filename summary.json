@@ -1,0 +1,19 @@
+{
+  "objective": "conversions",
+  "seeds": 100,
+  "days": 30,
+  "total_spend_per_run": 27000.0,
+  "baseline_total_mean": 3687.29,
+  "baseline_total_std": 71.57228386870031,
+  "agent_total_mean": 3983.99,
+  "agent_total_std": 80.38637693017142,
+  "oracle_expected_total": 4289.329582033593,
+  "uplift_mean": 296.7,
+  "uplift_ci95": 17.804512999560394,
+  "uplift_pct": 8.0465599396847,
+  "win_rate_vs_baseline": 1.0,
+  "baseline_cost_per_result": 7.322450905678696,
+  "agent_cost_per_result": 6.77712544459198,
+  "uplift_pct_after_shift": 8.598931234715756,
+  "share_of_oracle_gap_closed_pct": 46.698066319215876
+}
